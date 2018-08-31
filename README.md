@@ -8,9 +8,9 @@ You can take it from here.....
 
 
 Requires:
-jenkins version 2.1.X
-docker pipline  1.1.x
-docker commons plugin 1.15.x
+- jenkins version 2.1.X
+- docker pipline  1.1.x
+- docker commons plugin 1.15.x
 
 
 Enjoy!
