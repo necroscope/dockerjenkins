@@ -1,8 +1,10 @@
 # dockerjenkins
-This is the necroscope repo for a jenkinsfile the runs a docker image.  Requires the docker plugin in jenkins
-Note this is good for large process jobs that require many running containers and many jenkins nodes.
-I have another version I use it for python data analysis...but the setup here is to just show a gradle build.
-You can take it from there.
+This is the necroscope repo for a jenkinsfile that runs a docker image.  It requires the docker plugin in jenkins.
+Please note this is good template for large process jobs that require many running containers and many jenkins nodes.
+I have another version that I use for python data analysis...but the setup here is to just show a gradle build across
+several docker nodes.
+
+You can take it from here.....
 
 
 Requires:
